@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --color-primary: #ffa500;
+    --color-dark: #232323;
+    --color-light:#eaeaea;
+    --color-white:#fff;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    color: var(--color-dark)
+}
